@@ -5,8 +5,10 @@ You can see the tutorial at ["Getting Started with React VR"](https://www.plural
 The space skybox was created with [Spacescape](http://alexcpeterson.com/spacescape/).
 
 ## Installation
+``` 
 $ git clone https://github.com/hrrakn/earth-moon-vr.git
 $ cd earth-moon-vr
 $ npm install
 $ npm start
+```
 Go to http://localhost:8081/vr 
