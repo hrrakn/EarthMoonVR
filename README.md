@@ -6,7 +6,7 @@ The space skybox was created with [Spacescape](http://alexcpeterson.com/spacesca
 
 ## Installation
 ``` 
-$ git clone https://github.com/hrrakn/earth-moon-vr.git
+$ git clone https://github.com/hrrakn/EarthMoonVR.git
 $ cd EarthMoonVr
 $ npm install
 $ npm start
